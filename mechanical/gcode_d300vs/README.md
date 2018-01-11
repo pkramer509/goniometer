@@ -1,0 +1,2 @@
+These are specialized gcdoes for my 3d printer that I want to archive, unless you have the exact same setup as my d300vs w/ fans on S2 these wont work well for you.
+You should instead uise the provided STLs in /mechanical/stl to slice for your won printer.
