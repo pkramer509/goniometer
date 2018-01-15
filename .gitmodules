@@ -1,0 +1,3 @@
+[submodule "software/pca9685"]
+	path = software/pca9685
+	url = git@github.com:pkramer509/pca9685.git
