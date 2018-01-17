@@ -1,2 +1,2 @@
 # goniometer
-Source Code and Design Files for a goniometric mount.
+Source Code and Design Files for a goniometric device.
